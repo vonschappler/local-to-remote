@@ -1,1 +1,1 @@
-# local-to-remoet
+# local-to-remote
