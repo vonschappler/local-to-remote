@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Some text
 
 Hello from test!
@@ -5,3 +6,6 @@ Hello from test!
 
 Here are some changes in the master!
 A change here in this file
+=======
+Some text
+>>>>>>> parent of d3cb508 (Change file.txt in test branch)
